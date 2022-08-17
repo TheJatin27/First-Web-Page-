@@ -1,0 +1,139 @@
+#div1 {
+
+    font-family:arial;
+
+    font-size:xx-large;
+
+    color: crimson;
+
+
+background: rgb(17, 194, 233);
+
+
+
+}
+
+
+.p_html {
+
+    color: red;
+}
+
+#div2 {
+    color: rgb(205, 15, 174);
+
+}
+
+#div3 {
+
+color: rgb(10, 209, 7);
+font-family:arial;
+
+
+
+}
+
+#table_2 {
+
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#css_td{
+    color: blue;
+}
+
+.bold_one {
+    text-align: center;
+
+    
+
+    font-family:arial;
+
+    font-size:xxx-large;
+
+    color: crimson;
+
+
+}
+#form {
+
+    font-family:arial;
+
+    font-size:xxx-large;
+
+    color: rgb(20, 57, 220);
+    text-align: center;
+
+}
+
+form {
+
+    display: table;
+}
+
+.div5 {
+
+    font-family:arial;
+
+    font-size:xx-large; 
+
+
+
+    
+
+}
+
+
+#table_form {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table_form {
+    background-color:rgba(57, 50, 50, 0.593);
+   
+    border-bottom: 10px;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-color: brown;
+    border-style:groove;
+
+
+
+    /* Keyword values
+border-style: none;
+border-style: hidden;
+border-style: dotted;
+border-style: dashed;
+border-style: solid;
+border-style: double;
+border-style: groove;
+border-style: ridge;
+border-style: inset;
+border-style: outset; */
+
+}
+
+.final {
+    box-sizing: border-box;
+    width: 100%;
+    border: solid brown 10px;
+    padding: 5px;
+    border-radius:50%;
+    font-size:x-large;
+    border-style:groove;
+
+
+}
+.name {
+
+    box-sizing: border-box;
+    width: 100%;
+    border: solid brown 10px;
+    padding: 5px;
+    font-size:x-large;
+    border-style:groove;
+  
+}
